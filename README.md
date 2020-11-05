@@ -1,16 +1,22 @@
 ### Hi there 👋
-
-<!--
-**Premiering/Premiering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+    - random spigot plugins
+    - mc servers that will probably never come out
+    - if you haven't realized i am very smart at java
+- 🌱 I’m currently learning:
+    - random stupid programming languages such as brain fuck
+    - just kidding but seriously c# and yeah c#
+- 👯 I’m looking to collaborate on:
+    - idk hmu if you wanna make something cool in java
+- 💬 Ask me about:
+    - idfk
+- 📫 How to reach me:
+    - Discord (I change my name quite a bit, but you can always find me on Eric's Support Server with a name that contains Premiering)
+- 😄 Pronouns:
+    - what
+- ⚡ Fun fact:
+    - null pointer exceptions are the worst
+### Tools I use:
+- IntelliJ IDEA Community with Atom One Dark Theme and Minecraft Development Plugin
+- Sometimes I use Eclipse IDE
+- Visual Studio Code
