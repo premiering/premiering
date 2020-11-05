@@ -22,3 +22,29 @@
 - Sometimes I use Eclipse IDE
     - Dark Theme Thingy liek who doesnt use that theme like if you dont like what are you even doing are your eyes even remotely working like cmon man just get good at eye sight and stop hurt the eye sight man
 - Visual Studio Code
+### why did you read this
+too bad you read it, because now you get to see funny meme
+                                     .-.
+            ,                     .-' ,c'.
+         __rK                    _)a  7  ;
+        /  ~,)                  (_,      (
+      _;   /a(                   |_.    :'\
+      L/\.'__/                   \       ' )nnnK-.
+      S  / (_                  .- L,-'   .dHHHb   |
+      S( '\_\\                / dHb'----'dHHHHb    \
+      S \  ,  )      _,-._   / dHHHb"x.dHHHHHHb     \
+      S |'. '.______/_U/_ '.-z/dHHHp   'dHHHHHb\     |
+     [H |  '..___.--'._C__  ) |         dHHHHHHb\ _   \
+     /| |_  | \     L/'--._/_ ;                  k '  /
+     |//- '-. ---.__         '|                 /     |
+      (       '-.   '.        |               _'-.  _/
+  .."' `.,  _ ,  :  | \      _\             ,/ ,  '/
+."       ':   .     : |   .-' '',          : |/(/\]/
+          \  /:  '  | :  /_      '...... .'/      |
+           |     |  : / .' '--.__,     __.'\      /
+           |   : ;  |/ |         '----'L,  |     /
+            \  : .   \  '-.________ /   ]  |____/
+    snd     L_____'..'           _.7' _/  <,    >
+                                <___.'     /    \
+                                           \____/
+haha shrek funny
