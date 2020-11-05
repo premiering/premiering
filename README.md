@@ -12,8 +12,6 @@
     - idfk
 - 📫 How to reach me:
     - Discord (I change my name quite a bit, but you can always find me on Eric's Support Server with a name that contains Premiering)
-- 😄 Pronouns:
-    - what
 - ⚡ Fun fact:
     - null pointer exceptions are the worst
 ### Tools I use:
