@@ -17,6 +17,10 @@
 - ⚡ Fun fact:
     - null pointer exceptions are the worst
 ### Tools I use:
-- IntelliJ IDEA Community with Atom One Dark Theme and Minecraft Development Plugin
+- IntelliJ IDEA Community
+    - Plugins:
+        - Atom One Dark Theme
+        - Minecraft Development
 - Sometimes I use Eclipse IDE
+    - Dark Theme Thingy liek who doesnt use that theme like if you dont like what are you even doing are your eyes even remotely working like cmon man just get good at eye sight and stop hurt the eye sight man
 - Visual Studio Code
