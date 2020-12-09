@@ -22,7 +22,7 @@
         - Minecraft Development
 - Sometimes I use Eclipse IDE
     - Dark Theme Thingy liek who doesnt use that theme like if you dont like what are you even doing are your eyes even remotely working like cmon man just get good at eye sight and stop hurt the eye sight man
-- Visual Studio Code
+- Visual Studio Code and/or JetBrains Rider
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premiering&show_icons=true&locale=en" alt="premiering" /></p>
 <!--- why did you fork this man like why dude why did you fork this project go fork some of my other projects --->
