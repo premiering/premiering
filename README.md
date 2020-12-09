@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on:
-    - @CheatBonker
+    - [cheatbonker](https://github.com/cheatbonker)
     - random spigot plugins
     - mc servers that will probably never come out
     - if you haven't realized i am very smart at java
