@@ -14,7 +14,7 @@
 - 📫 How to reach me:
     - Discord (I change my name quite a bit, but you can always find me on Eric's Support Server with a name that contains Premiering)
 - ⚡ Fun fact:
-    - null pointer exceptions are the worst
+    - i dont have any fun facts, cool fun fact! oh wait, i do have a fun fact!
 ### Tools I use:
 - IntelliJ IDEA Community
     - Plugins:
