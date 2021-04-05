@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning:
     - random stupid programming languages such as brain fuck
     - just kidding but seriously c# and yeah c#
-- 👯 I’m looking to collaborate on:
-    - idk hmu if you wanna make something cool in java
 - 💬 Ask me about:
     - idfk
 - 📫 How to reach me:
