@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on:
     - [cheatbonker](https://github.com/cheatbonker)
-    - random spigot plugins
+    - random spigot plugins in java and kotlin
     - mc servers that will probably never come out
-    - if you haven't realized i am very smart at java
+    - if you haven't realized i am very smart java and kotlin
 - 🌱 I’m currently learning:
     - random stupid programming languages such as brain fuck
     - just kidding but seriously c# and yeah c#
