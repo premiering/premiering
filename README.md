@@ -1,26 +1,3 @@
 ### Hi there 👋
 - 🔭 I’m currently working on:
-    - [cheatbonker](https://github.com/cheatbonker)
-    - random spigot plugins in java and kotlin
-    - mc servers that will probably never come out
-    - if you haven't realized i am very smart java and kotlin
-- 🌱 I’m currently learning:
-    - random stupid programming languages such as brain fuck
-    - just kidding but seriously c# and yeah c#
-- 💬 Ask me about:
-    - idfk
-- 📫 How to reach me:
-    - Discord (I change my name quite a bit, but you can always find me on Eric's Support Server with a name that contains Premiering)
-- ⚡ Fun fact:
-    - i dont have any fun facts, cool fun fact! oh wait, i do have a fun fact!
-### Tools I use:
-- IntelliJ IDEA Community
-    - Plugins:
-        - Atom One Dark Theme
-        - Minecraft Development
-- Sometimes I use Eclipse IDE
-    - Dark Theme Thingy liek who doesnt use that theme like if you dont like what are you even doing are your eyes even remotely working like cmon man just get good at eye sight and stop hurt the eye sight man
-- Visual Studio Code and/or JetBrains Rider
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premiering&show_icons=true&locale=en" alt="premiering" /></p>
-<!--- why did you fork this man like why dude why did you fork this project go fork some of my other projects --->
+    - no
